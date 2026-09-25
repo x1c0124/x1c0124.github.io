@@ -9,9 +9,9 @@ redirect_from:
 
 Hi, I'm Charlotte (Xiaoyi) Cao, a Master of Science in Management Studies (MSMS) student at MIT Sloan.
 
-Before everyone had ChatGPT open in a tab, I was the "personal ChatGPT" on almost every team I interned with. I read the research papers and turned them into plain language for executives, and I helped develop AI training materials for leadership teams.
+Before everyone had ChatGPT open in a tab, I was the "personal ChatGPT" on almost every team I interned with. I read the research on blockchain, machine learning and large language models, turned it into plain language for executives, and helped develop AI training materials for leadership teams.
 
-My skill set is wide and a little eclectic: equity research, venture capital, market strategy, data analysis, and a bit of deep learning. That makes sense once you know I originally thought I'd become an artist.
+My skill set is wide and a little eclectic: equity research, venture capital, market strategy, data analysis, and machine learning and deep learning projects. That makes sense once you know I originally thought I'd become an artist.
 
 Education
 ======
