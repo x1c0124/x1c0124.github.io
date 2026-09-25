@@ -28,7 +28,7 @@ Experience
 
 Teaching
 ======
-- Lecturer, *International Finance*, Sanya College, Hainan University (2024)
+- Lecturer, *International Finance*, Summer School, Sanya College, Hainan University (Jul–Aug 2024)
 
 Projects
 ======

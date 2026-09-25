@@ -1,11 +1,11 @@
 ---
 title: "International Finance"
 collection: teaching
-type: "Undergraduate course, Lecturer"
+type: "Summer school, Lecturer"
 permalink: /teaching/2024-international-finance
 venue: "Sanya College, Hainan University"
-date: 2024-01-01
+date: 2024-07-01
 location: "Sanya, China"
 ---
 
-Lectured for half a semester as a guest lecturer, teaching introductory concepts of International Finance to undergraduate students.
+Taught introductory International Finance as a lecturer in the summer school program, July–August 2024.
